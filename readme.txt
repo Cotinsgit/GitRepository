@@ -4,4 +4,4 @@ Git is girl
 Git is beautiful
 Git is cool
 Git is shy
-Git test
+Creating a new branch is quick AND simple
