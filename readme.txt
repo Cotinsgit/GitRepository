@@ -5,7 +5,7 @@ Git is beautiful
 Git is cool
 Git is shy
 Creating a new branch is quick
-Test bug
+Test bug abc
 Add something
 Just test
 Night
